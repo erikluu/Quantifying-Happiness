@@ -1,0 +1,135 @@
+﻿,Overall rank,Score,Country,GDP (Billions),Social Score,Basic Human Needs,Foundation of Wellbeing,Opportunity,Life Expectancy,language,population,lat,lng,independent,landlocked,cca3,GDP per Capita,Region
+0,1,7.769,Finland,296.016,91.89,96.22,91.29,88.15,82.312,"{'fin': 'Finnish', 'swe': 'Swedish'}",5530719,64.0,26.0,True,False,FIN,5.3522155076039846e-05,Western Europe
+1,2,7.6,Denmark,396.666,92.11,96.11,91.58,88.66,81.256,{'dan': 'Danish'},5831404,56.0,10.0,True,False,DNK,6.802238363179776e-05,Western Europe
+2,3,7.554,Norway,445.507,92.73,96.85,93.39,87.95,82.788,"{'nno': 'Norwegian Nynorsk', 'nob': 'Norwegian Bokmål', 'smi': 'Sami'}",5379475,62.0,10.0,True,False,NOR,8.281607405927159e-05,Western Europe
+3,4,7.494,Iceland,25.476,91.09,98.07,92.81,82.39,83.37,{'isl': 'Icelandic'},366425,65.0,-18.0,True,False,ISL,6.952582383843897e-05,Western Europe
+4,5,7.488,Netherlands,1007.562,91.06,96.48,91.18,85.53,82.636,{'nld': 'Dutch'},16655799,52.5,5.75,True,False,NLD,6.049316517328289e-05,Western Europe
+5,6,7.48,Switzerland,810.83,91.42,96.78,91.99,85.49,84.112,"{'fra': 'French', 'gsw': 'Swiss German', 'ita': 'Italian', 'roh': 'Romansh'}",8654622,47.0,8.0,True,True,CHE,9.36875117133943e-05,Western Europe
+6,7,7.343,Sweden,622.365,91.62,96.58,91.03,87.23,83.178,{'swe': 'Swedish'},10353442,62.0,15.0,True,False,SWE,6.011189322352895e-05,Western Europe
+7,8,7.307,New Zealand,247.64,91.64,97.22,92.57,85.13,82.652,"{'eng': 'English', 'mri': 'Māori', 'nzs': 'New Zealand Sign Language'}",5084300,-41.0,174.0,True,False,NZL,4.870680329642232e-05,Australia and New Zealand
+8,9,7.278,Canada,2015.983,91.4,97.03,90.88,86.31,82.812,"{'eng': 'English', 'fra': 'French'}",38005238,60.0,-95.0,True,False,CAN,5.304487239364216e-05,North America
+9,10,7.246,Austria,481.209,89.5,96.03,91.84,80.63,81.91,{'bar': 'Austro-Bavarian German'},8917205,47.33333333,13.33333333,True,True,AUT,5.39641064660956e-05,Western Europe
+10,11,7.228,Australia,1610.556,91.29,97.25,91.07,85.55,83.792,{'eng': 'English'},25687041,-27.0,133.0,True,False,AUS,6.269916414272863e-05,Australia and New Zealand
+11,12,7.167,Costa Rica,61.46,83.01,89.88,84.62,74.51,80.752,{'spa': 'Spanish'},5094114,10.0,-84.0,True,False,CRI,1.2064904711594598e-05,Latin America and Caribbean
+12,13,7.139,Israel,467.532,83.62,93.43,85.53,71.89,83.34,"{'ara': 'Arabic', 'heb': 'Hebrew'}",9216900,31.47,35.13,True,False,ISR,5.072551508641734e-05,Middle East and Northern Africa
+13,14,7.09,Luxembourg,83.771,89.56,95.72,91.84,81.13,82.624,"{'deu': 'German', 'fra': 'French', 'ltz': 'Luxembourgish'}",632275,49.75,6.16666666,True,True,LUX,0.00013249140010280336,Western Europe
+14,15,7.054,United Kingdom,3108.416,88.54,94.36,90.21,81.06,81.646,{'eng': 'English'},67215293,54.0,-2.0,True,False,GBR,4.624566614624443e-05,Western Europe
+15,16,7.021,Ireland,516.253,90.35,96.32,90.03,84.7,82.658,"{'eng': 'English', 'gle': 'Irish'}",4994724,53.0,-8.0,True,False,IRL,0.0001033596651186332,Western Europe
+16,17,6.985,Germany,4230.172,90.56,96.14,89.02,86.53,81.724,{'deu': 'German'},83240525,51.0,9.0,True,False,DEU,5.0818660742468884e-05,Western Europe
+17,18,6.923,Belgium,581.848,89.46,94.01,89.3,85.07,82.014,"{'deu': 'German', 'fra': 'French', 'nld': 'Dutch'}",11555997,50.83333333,4.0,True,False,BEL,5.035030729066475e-05,Western Europe
+18,19,6.892,United States,22939.58,85.71,92.08,83.14,81.89,79.05,{'eng': 'English'},329484123,38.0,-97.0,True,False,USA,6.962271745033373e-05,North America
+19,20,6.852,Czech Republic,276.914,86.69,95.45,86.79,77.83,79.71,"{'ces': 'Czech', 'slk': 'Slovak'}",10698896,49.75,15.5,True,True,CZE,2.588248357587549e-05,Central and Eastern Europe
+20,21,6.825,United Arab Emirates,410.158,70.6,86.8,71.63,53.38,78.318,{'ara': 'Arabic'},9890400,24.0,54.0,True,False,ARE,4.147031464854809e-05,Middle East and Northern Africa
+21,22,6.726,Malta,16.695,84.89,93.25,87.98,73.43,82.906,"{'eng': 'English', 'mlt': 'Maltese'}",525285,35.83333333,14.58333333,True,False,MLT,3.178274650903795e-05,Western Europe
+22,23,6.595,Mexico,1285.518,73.52,82.54,74.67,63.36,75.324,{'spa': 'Spanish'},128932753,23.0,-102.0,True,False,MEX,9.970453357185354e-06,Latin America and Caribbean
+23,24,6.592,France,2940.428,88.78,94.48,90.78,81.09,82.996,{'fra': 'French'},67391582,46.0,2.0,True,False,FRA,4.36319776556069e-05,Western Europe
+24,26,6.444,Chile,331.25,83.34,90.79,81.87,77.35,80.584,{'spa': 'Spanish'},19116209,-30.0,-71.0,True,False,CHL,1.7328226532781683e-05,Latin America and Caribbean
+25,27,6.436,Guatemala,83.305,61.67,68.32,71.33,45.35,74.828,{'spa': 'Spanish'},16858333,15.5,-90.25,True,False,GTM,4.941473157518006e-06,Latin America and Caribbean
+26,28,6.375,Saudi Arabia,842.588,65.06,84.54,67.64,43.02,75.532,{'ara': 'Arabic'},34813867,25.0,45.0,True,False,SAU,2.420265464907992e-05,Middle East and Northern Africa
+27,29,6.374,Qatar,169.184,70.58,90.4,72.1,49.23,80.588,{'ara': 'Arabic'},2881060,25.5,51.25,True,False,QAT,5.8722831180190624e-05,Middle East and Northern Africa
+28,30,6.354,Spain,1439.958,88.71,95.27,89.71,81.15,83.864,{'spa': 'Spanish'},47351567,40.0,-4.0,True,False,ESP,3.040993342416736e-05,Western Europe
+29,31,6.321,Panama,60.121,76.55,86.0,79.83,63.82,78.928,{'spa': 'Spanish'},4314768,9.0,-80.0,True,False,PAN,1.393377349604892e-05,Latin America and Caribbean
+30,32,6.3,Brazil,1645.837,73.91,82.69,76.59,62.46,76.368,{'por': 'Portuguese'},212559409,-10.0,-55.0,True,False,BRA,7.742950583758915e-06,Latin America and Caribbean
+31,33,6.293,Uruguay,60.108,82.99,88.64,82.59,77.74,78.282,{'spa': 'Spanish'},3473727,-33.0,-56.0,True,False,URY,1.7303605032865277e-05,Latin America and Caribbean
+32,34,6.262,Singapore,378.645,85.46,97.66,86.13,72.58,83.934,"{'zho': 'Chinese', 'eng': 'English', 'msa': 'Malay', 'tam': 'Tamil'}",5685807,1.36666666,103.8,True,False,SGP,6.659476834159161e-05,Southeastern Asia
+33,35,6.253,El Salvador,27.665,67.25,77.62,68.87,55.26,73.846,{'spa': 'Spanish'},6486201,13.83333333,-88.91666666,True,False,SLV,4.265208555824897e-06,Latin America and Caribbean
+34,36,6.223,Italy,2120.232,87.36,93.19,88.59,80.3,83.856,{'ita': 'Italian'},59554023,42.83333333,12.83333333,True,False,ITA,3.56018265970042e-05,Western Europe
+35,37,6.199,Bahrain,39.104,66.6,86.34,69.6,43.86,77.604,{'ara': 'Arabic'},1701583,26.0,50.55,True,False,BHR,2.2980953617895807e-05,Middle East and Northern Africa
+36,40,6.182,Poland,655.332,84.32,94.44,83.67,74.86,79.108,{'pol': 'Polish'},37950802,52.0,20.0,True,False,POL,1.7267935470770816e-05,Central and Eastern Europe
+37,41,6.174,Uzbekistan,65.503,64.98,80.35,64.65,49.94,71.938,"{'rus': 'Russian', 'uzb': 'Uzbek'}",34232050,41.0,64.0,True,True,UZB,1.913499191547103e-06,Central and Eastern Europe
+38,42,6.149,Lithuania,62.635,83.97,90.83,83.77,77.3,76.258,{'lit': 'Lithuanian'},2794700,56.0,24.0,True,False,LTU,2.24120656957813e-05,Central and Eastern Europe
+39,43,6.125,Colombia,300.791,74.0,83.31,80.09,58.59,77.7,{'spa': 'Spanish'},50882884,4.0,-72.0,True,False,COL,5.9114377243239595e-06,Latin America and Caribbean
+40,44,6.118,Slovenia,60.89,87.71,95.62,88.85,78.64,81.696,{'slv': 'Slovene'},2100126,46.11666666,14.81666666,True,False,SVN,2.8993498485328975e-05,Central and Eastern Europe
+41,45,6.105,Nicaragua,13.397,64.02,75.09,72.83,44.13,75.014,{'spa': 'Spanish'},6624554,13.0,-85.0,True,False,NIC,2.0223248236786958e-06,Latin America and Caribbean
+42,47,6.086,Argentina,455.172,80.66,87.73,80.05,74.2,77.026,"{'grn': 'Guaraní', 'spa': 'Spanish'}",45376763,-34.0,-64.0,True,False,ARG,1.0030949100534122e-05,Latin America and Caribbean
+43,48,6.07,Romania,287.279,78.35,89.46,78.04,67.54,76.366,{'ron': 'Romanian'},19286123,46.0,25.0,True,False,ROU,1.489563247107778e-05,Central and Eastern Europe
+44,49,6.046,Cyprus,26.546,86.64,93.4,89.66,76.84,81.358,"{'ell': 'Greek', 'tur': 'Turkish'}",1207361,35.0,33.0,True,False,CYP,2.198679599556388e-05,Western Europe
+45,50,6.028,Ecuador,104.483,75.45,84.35,79.45,62.55,77.508,{'spa': 'Spanish'},17643060,-2.0,-77.5,True,False,ECU,5.922045268791242e-06,Latin America and Caribbean
+46,51,6.021,Kuwait,132.266,77.47,90.41,81.67,60.33,75.746,{'ara': 'Arabic'},4270563,29.5,45.75,True,False,KWT,3.0971560424234463e-05,Middle East and Northern Africa
+47,52,6.008,Thailand,546.223,70.72,80.89,75.44,55.83,77.558,{'tha': 'Thai'},69799978,15.0,100.0,True,False,THA,7.825546879112196e-06,Southeastern Asia
+48,53,5.94,Latvia,37.199,83.19,90.74,83.83,74.99,75.594,{'lav': 'Latvian'},1901548,57.0,25.0,True,False,LVA,1.9562482777189953e-05,Central and Eastern Europe
+49,55,5.893,Estonia,36.039,87.26,93.08,91.5,77.21,79.036,{'est': 'Estonian'},1331057,59.0,26.0,True,False,EST,2.707547460401771e-05,Central and Eastern Europe
+50,56,5.89,Jamaica,14.857,74.75,79.34,74.44,70.47,74.77,"{'eng': 'English', 'jam': 'Jamaican Patois'}",2961161,18.25,-77.5,True,False,JAM,5.017288826916199e-06,Latin America and Caribbean
+51,57,5.888,Mauritius,10.998,78.96,90.9,76.52,69.47,75.36,"{'eng': 'English', 'fra': 'French', 'mfe': 'Mauritian Creole'}",1265740,-20.28333333,57.55,True,False,MUS,8.688988259832193e-06,Sub-Saharan Africa
+52,58,5.886,Japan,5103.11,90.14,97.78,92.15,80.5,84.91,{'jpn': 'Japanese'},125836021,36.0,138.0,True,False,JPN,4.055365037329017e-05,Eastern Asia
+53,59,5.86,Honduras,26.325,62.41,73.72,66.38,47.12,75.694,{'spa': 'Spanish'},9904608,15.0,-86.5,True,False,HND,2.65785379895903e-06,Latin America and Caribbean
+54,60,5.809,Kazakhstan,194.024,72.66,85.6,76.13,56.24,73.756,"{'kaz': 'Kazakh', 'rus': 'Russian'}",18754440,48.0,68.0,True,True,KAZ,1.0345496853011874e-05,Central and Eastern Europe
+55,61,5.779,Bolivia,38.547,69.23,82.26,69.2,56.24,72.096,"{'aym': 'Aymara', 'grn': 'Guaraní', 'que': 'Quechua', 'spa': 'Spanish'}",11673029,-17.0,-65.0,True,True,BOL,3.302227725126015e-06,Latin America and Caribbean
+56,62,5.758,Hungary,180.959,81.02,92.1,80.76,70.19,77.174,{'hun': 'Hungarian'},9749763,47.0,20.0,True,True,HUN,1.856034859514021e-05,Central and Eastern Europe
+57,63,5.743,Paraguay,36.973,72.48,83.87,75.5,58.09,74.488,"{'grn': 'Guaraní', 'spa': 'Spanish'}",7132530,-23.0,-58.0,True,True,PRY,5.183714614589774e-06,Latin America and Caribbean
+58,65,5.697,Peru,225.858,74.22,82.46,78.5,61.69,77.234,"{'aym': 'Aymara', 'que': 'Quechua', 'spa': 'Spanish'}",32971846,-10.0,-76.0,True,False,PER,6.850025928181273e-06,Latin America and Caribbean
+59,66,5.693,Portugal,251.709,87.79,95.69,88.12,79.57,82.47,{'por': 'Portuguese'},10305564,39.5,-8.0,True,False,PRT,2.442457297824748e-05,Western Europe
+60,67,5.653,Pakistan,263.7,49.25,59.49,46.88,41.39,67.636,"{'eng': 'English', 'urd': 'Urdu'}",220892331,30.0,70.0,True,False,PAK,1.193794274369806e-06,Southern Asia
+61,68,5.648,Russia,1647.568,72.56,84.05,74.18,59.44,72.842,{'rus': 'Russian'},144104080,60.0,100.0,True,False,RUS,1.1433180795436187e-05,Central and Eastern Europe
+62,69,5.631,Philippines,385.737,66.62,70.74,71.24,57.87,71.534,"{'eng': 'English', 'fil': 'Filipino'}",109581085,13.0,122.0,True,False,PHL,3.520105682472482e-06,Southeastern Asia
+63,70,5.603,Serbia,60.669,75.54,87.53,75.19,63.9,76.33,{'srp': 'Serbian'},6908224,44.0,21.0,True,True,SRB,8.782141401321092e-06,Central and Eastern Europe
+64,71,5.529,Moldova,12.396,72.58,83.32,75.42,59.02,72.176,{'ron': 'Moldavian'},2617820,47.0,29.0,True,True,MDA,4.73523771687893e-06,Central and Eastern Europe
+65,73,5.523,Montenegro,5.494,74.42,86.18,77.96,59.12,77.242,{'cnr': 'Montenegrin'},621718,42.5,19.3,True,False,MNE,8.836803824241859e-06,Central and Eastern Europe
+66,74,5.467,Tajikistan,8.104,56.99,76.81,59.94,34.22,71.562,"{'rus': 'Russian', 'tgk': 'Tajik'}",9537642,39.0,71.0,True,True,TJK,8.496859076908108e-07,Central and Eastern Europe
+67,75,5.432,Croatia,63.399,81.92,91.29,84.79,69.69,78.866,{'hrv': 'Croatian'},4047200,45.16666666,15.5,True,False,HRV,1.5664904131251235e-05,Central and Eastern Europe
+68,77,5.425,Dominican Republic,89.502,71.05,78.69,74.99,59.48,74.482,{'spa': 'Spanish'},10847904,19.0,-70.66666666,True,False,DOM,8.250626111735502e-06,Latin America and Caribbean
+69,79,5.373,Turkey,795.952,68.27,85.2,67.47,52.14,78.222,{'tur': 'Turkish'},84339067,39.0,35.0,True,False,TUR,9.437524368155508e-06,Middle East and Northern Africa
+70,80,5.339,Malaysia,371.114,76.96,88.77,80.52,61.59,76.506,"{'eng': 'English', 'msa': 'Malay'}",32365998,2.5,112.5,True,False,MYS,1.1466168909730514e-05,Southeastern Asia
+71,81,5.323,Belarus,65.754,77.0,89.8,76.83,64.38,75.058,"{'bel': 'Belarusian', 'rus': 'Russian'}",9398861,53.0,28.0,True,True,BLR,6.99595408422361e-06,Central and Eastern Europe
+72,82,5.287,Greece,211.645,85.78,93.78,85.11,78.46,82.636,{'ell': 'Greek'},10715549,39.0,22.0,True,False,GRC,1.9751204534644004e-05,Western Europe
+73,83,5.285,Mongolia,14.28,71.07,77.42,71.27,64.52,70.334,{'mon': 'Mongolian'},3278292,46.0,105.0,True,True,MNG,4.355926805787892e-06,Eastern Asia
+74,84,5.274,North Macedonia,13.885,73.16,88.15,75.06,56.25,76.128,{'mkd': 'Macedonian'},2077132,41.83333333,22.0,True,True,MKD,6.68469793927396e-06,Western Europe
+75,85,5.265,Nigeria,480.482,51.31,50.82,57.47,45.64,55.436,{'eng': 'English'},206139587,10.0,8.0,True,False,NGA,2.330857488329013e-06,Sub-Saharan Africa
+76,87,5.247,Turkmenistan,53.087,58.35,83.18,59.84,32.05,68.5,"{'rus': 'Russian', 'tuk': 'Turkmen'}",6031187,40.0,60.0,True,True,TKM,8.80208158029257e-06,Central and Eastern Europe
+77,88,5.211,Algeria,163.812,69.92,87.69,66.05,56.02,77.318,{'ara': 'Arabic'},44700000,28.0,3.0,True,False,DZA,3.6646979865771813e-06,Middle East and Northern Africa
+78,89,5.208,Morocco,126.035,66.9,84.78,64.5,51.43,77.21,"{'ara': 'Arabic', 'ber': 'Berber'}",36910558,32.0,-5.0,True,False,MAR,3.41460565294082e-06,Middle East and Northern Africa
+79,90,5.208,Azerbaijan,52.645,64.11,83.4,67.62,41.32,73.226,"{'aze': 'Azerbaijani', 'rus': 'Russian'}",10110116,40.5,47.5,True,True,AZE,5.207160827828287e-06,Central and Eastern Europe
+80,91,5.197,Lebanon,33.38,69.37,84.32,67.14,56.63,79.18,"{'ara': 'Arabic', 'fra': 'French'}",6825442,33.83333333,35.83333333,True,False,LBN,4.890525771078269e-06,Middle East and Northern Africa
+81,92,5.192,Indonesia,1150.245,69.49,79.79,68.76,59.92,72.138,{'ind': 'Indonesian'},273523621,-5.0,120.0,True,False,IDN,4.20528580235489e-06,Southeastern Asia
+82,93,5.191,China,16862.979,66.12,82.93,64.79,50.63,77.3,{'zho': 'Chinese'},1402112000,35.0,105.0,True,False,CHN,1.202684165031039e-05,Eastern Asia
+83,94,5.175,Vietnam,368.002,68.85,82.03,72.31,52.23,75.67,{'vie': 'Vietnamese'},97338583,16.16666666,107.83333333,True,False,VNM,3.780638557271786e-06,Southeastern Asia
+84,95,5.082,Bhutan,2.48,68.34,82.02,65.9,57.09,72.472,{'dzo': 'Dzongkha'},771612,27.5,90.5,True,True,BTN,3.214050585009046e-06,Southern Asia
+85,96,5.044,Cameroon,44.806,51.29,56.31,54.2,43.36,60.01,"{'eng': 'English', 'fra': 'French'}",26545864,6.0,12.0,True,False,CMR,1.6878712254383583e-06,Sub-Saharan Africa
+86,97,5.011,Bulgaria,77.907,79.86,90.88,78.19,70.51,75.362,{'bul': 'Bulgarian'},6927288,43.0,25.0,True,False,BGR,1.1246392527638522e-05,Central and Eastern Europe
+87,98,4.996,Ghana,75.487,64.86,65.19,68.04,61.35,64.682,{'eng': 'English'},31072945,8.0,-2.0,True,False,GHA,2.4293481033098085e-06,Sub-Saharan Africa
+88,100,4.913,Nepal,34.265,57.6,67.59,53.43,51.79,71.454,{'nep': 'Nepali'},29136808,28.0,84.0,True,True,NPL,1.1760039054380974e-06,Southern Asia
+89,101,4.906,Jordan,45.344,71.5,89.35,69.61,55.54,74.874,{'ara': 'Arabic'},10203140,31.0,36.0,True,False,JOR,4.4441221035877195e-06,Middle East and Northern Africa
+90,102,4.883,Benin,18.067,55.56,51.94,60.97,53.77,62.532,{'fra': 'French'},12123198,9.5,2.25,True,False,BEN,1.4902833394290846e-06,Sub-Saharan Africa
+91,104,4.799,Gabon,18.293,63.93,73.31,62.78,55.71,66.836,{'fra': 'French'},2225728,-1.0,11.75,True,False,GAB,8.218883888777066e-06,Sub-Saharan Africa
+92,106,4.722,South Africa,415.315,70.26,73.35,69.28,68.14,64.628,"{'afr': 'Afrikaans', 'eng': 'English', 'nbl': 'Southern Ndebele', 'nso': 'Northern Sotho', 'sot': 'Southern Sotho', 'ssw': 'Swazi', 'tsn': 'Tswana', 'tso': 'Tsonga', 'ven': 'Venda', 'xho': 'Xhosa', 'zul': 'Zulu'}",59308690,-29.0,24.0,True,False,ZAF,7.002599450434667e-06,Sub-Saharan Africa
+93,107,4.719,Albania,16.77,75.41,86.92,82.71,56.6,78.844,{'sqi': 'Albanian'},2837743,41.0,20.0,True,False,ALB,5.9096260655034655e-06,Central and Eastern Europe
+94,109,4.7,Cambodia,26.08,56.27,67.27,62.09,39.43,70.32,{'khm': 'Khmer'},16718971,13.0,105.0,True,False,KHM,1.5599046137468626e-06,Southeastern Asia
+95,111,4.681,Senegal,27.576,60.04,66.2,61.17,52.76,68.59,{'fra': 'French'},16743930,14.0,-14.0,True,False,SEN,1.6469251842309422e-06,Sub-Saharan Africa
+96,112,4.668,Somalia,5.424,35.58,36.87,43.98,25.9,58.06,"{'ara': 'Arabic', 'som': 'Somali'}",15893219,10.0,49.0,True,False,SOM,3.4127762286544977e-07,Sub-Saharan Africa
+97,113,4.639,Namibia,12.213,67.14,67.29,70.92,63.21,64.492,"{'afr': 'Afrikaans', 'deu': 'German', 'eng': 'English', 'her': 'Herero', 'hgm': 'Khoekhoe', 'kwn': 'Kwangali', 'loz': 'Lozi', 'ndo': 'Ndonga', 'tsn': 'Tswana'}",2540916,-22.0,17.0,True,False,NAM,4.806534336436151e-06,Sub-Saharan Africa
+98,114,4.628,Niger,15.637,42.21,42.2,42.81,41.63,63.256,{'fra': 'French'},24206636,16.0,8.0,True,True,NER,6.459798874986182e-07,Sub-Saharan Africa
+99,115,4.587,Burkina Faso,19.932,49.87,47.93,54.74,46.95,62.568,{'fra': 'French'},20903278,13.0,-2.0,True,True,BFA,9.535346561434048e-07,Sub-Saharan Africa
+100,116,4.559,Armenia,13.612,76.46,87.91,78.22,63.24,75.414,{'hye': 'Armenian'},2963234,40.0,45.0,True,True,ARM,4.5936297977142545e-06,Central and Eastern Europe
+101,118,4.534,Guinea,16.724,43.41,44.61,52.88,32.76,62.32,{'fra': 'French'},13132792,11.0,-10.0,True,False,GIN,1.273453504784055e-06,Sub-Saharan Africa
+102,119,4.519,Georgia,17.846,74.85,83.79,77.14,63.64,74.096,{'kat': 'Georgian'},3714000,42.0,43.5,True,False,GEO,4.8050619278406036e-06,Central and Eastern Europe
+103,121,4.509,Kenya,109.491,57.1,55.97,64.6,50.74,67.212,"{'eng': 'English', 'swa': 'Swahili'}",53771300,1.0,38.0,True,False,KEN,2.0362349431760066e-06,Sub-Saharan Africa
+104,122,4.49,Mauritania,9.164,48.95,56.63,52.69,37.52,65.378,{'ara': 'Arabic'},4649660,20.0,-12.0,True,False,MRT,1.9708967967550315e-06,Sub-Saharan Africa
+105,123,4.466,Mozambique,15.833,49.0,46.93,56.22,43.85,61.714,{'por': 'Portuguese'},31255435,-18.25,35.0,True,False,MOZ,5.0656789771123e-07,Sub-Saharan Africa
+106,124,4.461,Tunisia,42.733,75.02,85.56,71.29,68.19,77.17,{'ara': 'Arabic'},11818618,34.0,9.0,True,False,TUN,3.615735782305511e-06,Middle East and Northern Africa
+107,125,4.456,Bangladesh,355.689,55.23,64.18,59.75,41.76,73.286,{'ben': 'Bengali'},164689383,24.0,90.0,True,False,BGD,2.15975670999994e-06,Southern Asia
+108,126,4.437,Iraq,201.472,63.52,78.06,63.19,49.31,70.938,"{'ara': 'Arabic', 'arc': 'Aramaic', 'ckb': 'Sorani'}",40222503,33.0,44.0,True,False,IRQ,5.0089374099866435e-06,Middle East and Northern Africa
+109,128,4.39,Mali,19.563,48.29,51.99,51.69,41.19,60.174,{'fra': 'French'},20250834,17.0,-4.0,True,True,MLI,9.66034287773037e-07,Sub-Saharan Africa
+110,129,4.374,Sierra Leone,4.407,51.74,47.0,58.15,50.07,55.55,{'eng': 'English'},7976985,8.5,-11.5,True,False,SLE,5.524643709371398e-07,Sub-Saharan Africa
+111,130,4.366,Sri Lanka,80.785,73.2,81.89,80.33,57.39,77.392,"{'sin': 'Sinhala', 'tam': 'Tamil'}",21919000,7.0,81.0,True,False,LKA,3.68561521967243e-06,Southern Asia
+112,131,4.36,Myanmar,66.74,55.99,64.61,59.27,44.1,67.576,{'mya': 'Burmese'},54409794,22.0,98.0,True,False,MMR,1.2266173990660577e-06,Southeastern Asia
+113,132,4.35,Chad,12.345,31.29,30.87,37.89,25.1,54.896,"{'ara': 'Arabic', 'fra': 'French'}",16425859,15.0,19.0,True,True,TCD,7.515588682454903e-07,Sub-Saharan Africa
+114,133,4.332,Ukraine,181.038,73.38,83.36,71.97,64.79,72.364,{'ukr': 'Ukrainian'},44134693,49.0,32.0,True,False,UKR,4.101943113096992e-06,Central and Eastern Europe
+115,134,4.286,Ethiopia,92.757,48.59,51.65,53.38,40.74,67.442,{'amh': 'Amharic'},114963583,8.0,38.0,True,True,ETH,8.068381097690736e-07,Sub-Saharan Africa
+116,136,4.189,Uganda,43.243,52.98,53.67,59.2,46.08,64.056,"{'eng': 'English', 'swa': 'Swahili'}",45741000,1.0,32.0,True,True,UGA,9.453881637917842e-07,Sub-Saharan Africa
+117,137,4.166,Egypt,396.328,59.98,79.41,51.55,48.98,72.38,{'ara': 'Arabic'},102334403,27.0,30.0,True,False,EGY,3.872871569886424e-06,Middle East and Northern Africa
+118,138,4.107,Zambia,21.699,55.34,56.09,59.94,49.99,64.412,{'eng': 'English'},18383956,-15.0,30.0,True,True,ZMB,1.1803226683092585e-06,Sub-Saharan Africa
+119,139,4.085,Togo,8.493,53.05,50.8,60.51,47.84,61.81,{'fra': 'French'},8278737,8.0,1.16666666,True,False,TGO,1.025881121721828e-06,Sub-Saharan Africa
+120,140,4.015,India,2946.061,56.8,66.24,50.15,54.01,70.19,"{'eng': 'English', 'hin': 'Hindi', 'tam': 'Tamil'}",1380004385,20.0,77.0,True,False,IND,2.134820028126215e-06,Southern Asia
+121,141,3.975,Liberia,3.384,51.37,47.75,52.42,53.94,64.72,{'eng': 'English'},5057677,6.5,-9.5,True,False,LBR,6.690818729626269e-07,Sub-Saharan Africa
+122,143,3.933,Madagascar,14.101,48.46,43.54,54.67,47.17,67.866,"{'fra': 'French', 'mlg': 'Malagasy'}",27691019,-20.0,47.0,True,False,MDG,5.092264751976083e-07,Sub-Saharan Africa
+123,144,3.802,Lesotho,2.478,53.8,44.33,60.05,57.02,55.222,"{'eng': 'English', 'sot': 'Sotho'}",2142252,-29.5,28.5,True,True,LSO,1.1567266596086735e-06,Sub-Saharan Africa
+124,145,3.775,Burundi,3.193,41.2,40.33,50.08,33.21,62.372,"{'fra': 'French', 'run': 'Kirundi'}",11890781,-3.5,30.0,True,True,BDI,2.6852735745448514e-07,Sub-Saharan Africa
+125,146,3.663,Zimbabwe,25.791,52.26,51.4,64.48,40.88,61.894,"{'bwg': 'Chibarwe', 'eng': 'English', 'kck': 'Kalanga', 'khi': 'Khoisan', 'ndc': 'Ndau', 'nde': 'Northern Ndebele', 'nya': 'Chewa', 'sna': 'Shona', 'sot': 'Sotho', 'toi': 'Tonga', 'tsn': 'Tswana', 'tso': 'Tsonga', 'ven': 'Venda', 'xho': 'Xhosa', 'zib': 'Zimbabwean Sign Language'}",14862927,-20.0,30.0,True,True,ZWE,1.7352571266749813e-06,Sub-Saharan Africa
+126,147,3.597,Haiti,20.143,48.79,50.21,54.5,41.65,64.696,"{'fra': 'French', 'hat': 'Haitian Creole'}",11402533,19.0,-72.41666666,True,False,HTI,1.7665373123673486e-06,Latin America and Caribbean
+127,148,3.488,Botswana,17.605,69.36,71.48,74.24,62.36,69.706,"{'eng': 'English', 'tsn': 'Tswana'}",2351625,-22.0,24.0,True,True,BWA,7.48631265614203e-06,Sub-Saharan Africa
+128,150,3.41,Malawi,12.15,54.07,53.6,59.58,49.02,65.182,"{'eng': 'English', 'nya': 'Chewa'}",19129955,-13.5,34.0,True,True,MWI,6.351295651244345e-07,Sub-Saharan Africa
+129,152,3.334,Rwanda,10.395,54.13,54.52,62.65,45.21,69.688,"{'eng': 'English', 'fra': 'French', 'kin': 'Kinyarwanda'}",12952209,-2.0,30.0,True,True,RWA,8.025658017099631e-07,Sub-Saharan Africa
+130,153,3.231,Tanzania,69.238,56.2,56.26,62.91,49.42,66.08,"{'eng': 'English', 'swa': 'Swahili'}",59734213,-6.0,35.0,True,False,TZA,1.1591012339946623e-06,Sub-Saharan Africa
+131,154,3.203,Afghanistan,19.81,42.29,52.9,39.5,34.47,65.632,"{'prs': 'Dari', 'pus': 'Pashto', 'tuk': 'Turkmen'}",40218234,33.0,65.0,True,True,AFG,4.925626520547868e-07,Southern Asia
+132,155,3.083,Central African Republic,2.587,31.62,21.31,38.68,34.85,54.022,"{'fra': 'French', 'sag': 'Sango'}",4829764,7.0,21.0,True,True,CAF,5.356369379539042e-07,Sub-Saharan Africa
+133,156,2.853,South Sudan,3.263,31.06,35.74,36.69,20.73,58.476,{'eng': 'English'},11193729,7.0,30.0,True,True,SSD,2.915025010878859e-07,Sub-Saharan Africa
