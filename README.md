@@ -1,4 +1,4 @@
-# QuantifyingHappiness
+# Quantifying Happiness
 
 Analysis of world happiness.
 
