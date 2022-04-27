@@ -1,6 +1,6 @@
 # Quantifying Happiness
 
-Analysis of world happiness. Final Project for DATA301
+Analysis of world happiness. Final Project for DATA301 - Winter 2022.
 
 - Data Collection and Cleaning
 - Data Exploration
