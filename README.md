@@ -1,6 +1,6 @@
 # Quantifying Happiness
 
-Analysis of world happiness.
+Analysis of world happiness. Final Project for DATA301
 
 - Data Collection and Cleaning
 - Data Exploration
